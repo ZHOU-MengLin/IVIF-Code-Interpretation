@@ -34,7 +34,7 @@
 | **2024** | [MMDRFuse: Distilled Mini-Model with Dynamic Refresh for Multi-Modality Image Fusion](https://github.com/yanglinDeng/MMDRFuse) 🤗🤗🤗🤗 |         |
 | **2024** | [Probing Synergistic High-Order Interaction in Infrared and Visible Image Fusion](https://github.com/zheng980629/SHIP) | CVPR    |
 |   2024   | [Dispel Darkness for Better Fusion: A Controllable Visual Enhancer based on Cross-modal Conditional Adversarial Learning](https://github.com/HaoZhang1018/DDBF) | CVPR    |
-|   2024   | [MRFS: Mutually Reinforcing Image Fusion and Segmentation] (https://github.com/HaoZhang1018/MRFS) | CVPR    |
+|   2024   | [MRFS: Mutually Reinforcing Image Fusion and Segmentation](https://github.com/HaoZhang1018/MRFS) | CVPR    |
 | **2024** | [Frequency Integration and Spatial Compensation Network for Infrared and Visible Image Fusion](https://github.com/zheng980629/FISCNet) |         |
 | **2024** | [A general image fusion framework using multi-task semi-supervised learning](https://github.com/wwhappylife/A-general-image-fusion-framework-using-multi-task-semi-supervised-learning) 🤗🤗🤗🤗 |         |
 | **2024** | [Diff-IF: Multi-modality image fusion via diffusion model with fusion knowledge prior](https://github.com/XunpengYi/Diff-IF) 🤗🤗🤗🤗 |         |
