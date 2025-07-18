@@ -64,13 +64,13 @@
 | **2022** | [Res2Fusion: Infrared and visible image fusion based on dense Res2net and double nonlocal attention models](https://github.com/Zhishe-Wang/Res2Fusion) |                                                              |
 | **2022** | [CUFD: An encoder-decoder network for visible and infrared image fusion based on common and unique feature decomposition](https://github.com/Meiqi-Gong/CUFD) |                                                              |
 | **2022** | [Breaking Free from Fusion Rule: A Fully Semantic-driven Infrared and Visible Image Fusion](https://github.com/wyh1210/BFFR) |                                                              |
-| **2021** | [SEDRFuse: A Symmetric Enocder-Decoder with Residual Network for Infrared and Visible Image Fusion](https://github.com/jianlihua123/SEDRFuse) | TIM[Paper](https://ieeexplore.ieee.org/document/9187663)     |
-| **2021** | [RFN-Nest: An end-to-end residual fusion network for infrared and visible images](https://github.com/hli1221/imagefusion-rfn-nest)🤗🤗 | TIM [Paper](https://ieeexplore.ieee.org/document/9345717/)   |
+| **2021** | [SEDRFuse: A Symmetric Enocder-Decoder with Residual Network for Infrared and Visible Image Fusion](https://github.com/jianlihua123/SEDRFuse) | TIM     |
+| **2021** | [RFN-Nest: An end-to-end residual fusion network for infrared and visible images](https://github.com/hli1221/imagefusion-rfn-nest)🤗🤗 | TIM    |
 | **2021** | [Efficient and Interpretable Infrared and Visible Image Fusion Via Algorithm Unrolling](https://github.com/Zhaozixiang1228/IVIF-AUIF-Net) | TCSVT                                                        |
 | **2020** | [NestFuse: An Infrared and Visible Image Fusion Architecture based on Nest Connection and Spatial/Channel Attention Models](https://github.com/hli1221/imagefusion-nestfuse) | TIM                                                          |
 | **2020** | [DIDFuse: Deep Image Decomposition for Infrared and Visible Image Fusion](https://github.com/Zhaozixiang1228/IVIF-DIDFuse) | IJCAI                                                        |
 | **2020** | [Classification Saliency-Based Rule for Visible and Infrared Image Fusion](https://github.com/hanna-xu/CSF) | TCI                                                          |
-| **2020** | [UNIFusion: A Lightweight Unified Image Fusion Network](https://github.com/AWCXV/UNIFusion) | TCI[Paper](https://ieeexplore.ieee.org/abstract/document/9502544) |
+| **2020** | [UNIFusion: A Lightweight Unified Image Fusion Network](https://github.com/AWCXV/UNIFusion) | TCI |
 | **2020** | [SMoA: Searching a Modality-Oriented Architecture for Infrared and Visible Image Fusion](https://github.com/JinyuanLiu-CV/SMoA) |                                                              |
 | **2019** | [Densefuse: A Fusion Approach to Infrared and Visible Images](https://github.com/hli1221/imagefusion_densefuse) 🤗🤗 | TIP                                                          |
 | **2018** | [Infrared and Visible Image Fusion using a Deep Learning Framework](https://github.com/hli1221/imagefusion_deeplearning) |                                                              |
@@ -89,7 +89,7 @@
 | **2022** | [Attention-Guided Polarization Image Fusion Using Salient Information Distribution](https://github.com/syc11-25/PAPIF) |                                                              |
 |   2022   | [RFNet: Unsupervised Network for Mutually Reinforcing Multi-modal Image Registration and Fusion](https://github.com/hanna-xu) | CVPR                                                         |
 | **2022** | [PIAFusion: A Progressive Infrared and Visible Image Fusion Network Based on Illumination Aware](https://github.com/Linfeng-Tang/PIAFusion) | InfFus                                                       |
-| **2022** | [Image fusion in the loop of high-level vision tasks: A semantic-aware real-time infrared and visible image fusion network](https://github.com/Linfeng-Tang/SeAFusion) 🤗🤗 SeAFusion | InfFus[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253521002542%3Fvia%3Dihub) |
+| **2022** | [Image fusion in the loop of high-level vision tasks: A semantic-aware real-time infrared and visible image fusion network](https://github.com/Linfeng-Tang/SeAFusion) 🤗🤗 SeAFusion | InfFus(https://www.sciencedirect.com/science/article/abs/pii/S1566253521002542%3Fvia%3Dihub) |
 | **2022** | [CLF-Net: "Contrastive Learning for Infrared and Visible Image Fusion Network](https://github.com/zzj-dyj/CLF-Net) |                                                              |
 | **2022** | [Unsupervised Misaligned Infrared and Visible Image Fusion via Cross-Modality Image Generation and Registration](https://github.com/wdhudiekou/UMF-CMGR) | IJCAI                                                        |
 | **2022** | [IPLF:A Novel Image Pair Learning Fusion Network for Infrared and Visible Image](https://github.com/zyrant/Summary-of-RGB-T-Salient-Object-Detection-and-Semantic-segmentation) |                                                              |
@@ -99,17 +99,17 @@
 | **2022** | [FLFuse-Net: A Fast and Lightweight Infrared and Visible Image Fusion Network Via Feature Flow and Edge Compensation for Salient Information](https://github.com/bearxwm/FLFuse-Net) 🤗🤗 |                                                              |
 | **2022** | [Multiscale Progressive Fusion of Infrared and Visible Images](https://github.com/seonghyun0108/MPFusion) 🤗 |                                                              |
 | **2022** | [Heterogeneous Knowledge Distillation for Simultaneous Infrared-Visible Image Fusion and Super-Resolution](https://github.com/firewaterfire/HKDnet) 🤗 |                                                              |
-| **2021** | [STDFusionNet: An Infrared and Visible Image Fusion Network Based on Salient Target Detection](https://github.com/Linfeng-Tang/STDFusionNet) 🤗🤗 | TIM[Paper](https://ieeexplore.ieee.org/document/9416507)     |
+| **2021** | [STDFusionNet: An Infrared and Visible Image Fusion Network Based on Salient Target Detection](https://github.com/Linfeng-Tang/STDFusionNet) 🤗🤗 | TIM     |
 |   2021   | RXDNFuse: A aggregated residual dense network for infrared and  visible image fusion[Code](https://github.com/JinyuanLiu-CV/MFEIF) | InfFus                                                       |
 |   2021   | Searching a Hierarchically Aggregated Fusion Architecture for  Fast Multi-Modality Image Fusion[Code](https://github.com/LiuzhuForFun/Hierarchical-NAS-Image-Fusion) | ACM MM                                                       |
 | **2021** | [DRF: Disentangled Representation for Visible and Infrared Image Fusion](https://github.com/hanna-xu/DRF) | TIM                                                          |
-| **2021** | [Different Input Resolutions and Arbitrary Output Resolution: A Meta-Learning Based Deep Framework for Infrared and Visible Image Fusion](https://github.com/yuliu316316/MetaLearning-Fusion) 🤗🤗 | TIP[Paper](https://ieeexplore.ieee.org/document/9394791/)    |
+| **2021** | [Different Input Resolutions and Arbitrary Output Resolution: A Meta-Learning Based Deep Framework for Infrared and Visible Image Fusion](https://github.com/yuliu316316/MetaLearning-Fusion) 🤗🤗 | TIP    |
 | **2021** | [SDNet: A Versatile Squeeze-and-Decomposition Network for Real-Time Image Fusion](https://github.com/HaoZhang1018/SDNet) |                                                              |
 | **2021** | [MIFFuse: A Multi-level Feature Fusion Network for Infrared and visible Images](https://github.com/depeng6/MIFFuse) 🤗 |                                                              |
 | **2020** | [IFCNN: A General Image Fusion Framework Based on Convolutional Neural Network](https://github.com/uzeful/IFCNN) |                                                              |
 | **2020** | [FusionDN: A Unified Densely Connected Network for Image Fusion](https://github.com/hanna-xu/FusionDN) |                                                              |
 | **2020** | [Rethinking the image fusion: A fast unified image fusion network based on proportional maintenance of gradient and intensity](https://github.com/HaoZhang1018/PMGI_AAAI2020) |                                                              |
-| **2020** | [U2Fusion: A Unified Unsupervised Image Fusion Network](https://github.com/hanna-xu/U2Fusion) 🤗🤗 | TPAMI[Paper](https://ieeexplore.ieee.org/document/9151265/?arnumber=9151265) |
+| **2020** | [U2Fusion: A Unified Unsupervised Image Fusion Network](https://github.com/hanna-xu/U2Fusion) 🤗🤗 | TPAMI |
 |   2019   | [imagefusion_resnet50: ResNet-ZCA (Journal of Infrared Physics & Technology 2019, Highly Cited Paper), MatLab](https://github.com/hli1221/imagefusion_resnet50?tab=readme-ov-file) | [InfFus](https://www.sciencedirect.com/science/article/pii/S1350449519301525) |
 
 ## 5. GAN-based IVIF method
@@ -124,13 +124,13 @@
 | **2022** | [Infrared and Visible Image Fusion via Interactive Compensatory Attention Adversarial Learning](https://github.com/Zhishe-Wang/ICAFusion) |                                                              |
 | **2021** | [Coupled GAN with Relativistic Discriminators for Infrared and Visible Images Fusion](https://github.com/liqilei/RCGAN) |                                                              |
 | **2021** | Infrared and Visible Image  Fusion via Texture Conditional Generative Adversarial Network | TCSVT                                                        |
-| **2021** | [Sematic-Supervised Infrared and Visible Image Fusion via Dual-Discriminator Generative Adversarial Network](https://github.com/WeiWu-WIT/SDDGAN) | TMM[Paper](https://ieeexplore.ieee.org/document/9623476)     |
-| **2021** | [MFEIF: Learning a Deep Multi-scale Feature Ensemble and an Edge-attention Guidance for Image Fusion](https://github.com/JinyuanLiu-CV/MFEIF) | TCSVT[Paper](https://ieeexplore.ieee.org/document/9349250)   |
+| **2021** | [Sematic-Supervised Infrared and Visible Image Fusion via Dual-Discriminator Generative Adversarial Network](https://github.com/WeiWu-WIT/SDDGAN) | TMM     |
+| **2021** | [MFEIF: Learning a Deep Multi-scale Feature Ensemble and an Edge-attention Guidance for Image Fusion](https://github.com/JinyuanLiu-CV/MFEIF) | TCSVT   |
 | **2021** | [GANMcC: A Generative Adversarial Network with Multi-classification Constraints for Infrared and Visible Image Fusion](https://github.com/HaoZhang1018/GANMcC) | TIM                                                          |
 | **2021** | [GAN-FM: Infrared and Visible Image Fusion Using GAN With Full-Scale Skip Connection and Dual Markovian Discriminators](https://github.com/yuanjiteng/GAN-FM) | TCI                                                          |
 |   2021   | [Image fusion based on  generative adversarial network consistent with perceptionCode](https://github.com/thfylsty/imagefusion_Perceptual_FusionGan) | InfFus                                                       |
-| **2019** | [FusionGAN: A generative adversarial network for infrared and visible image fusion](https://github.com/jiayi-ma/FusionGAN) | InfFus[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253518301143%3Fvia%3Dihub) |
-| **2019** | [DDcGAN:infrared and visible image fusion via dual-discriminator conditional generative adversarial network](https://github.com/hanna-xu/DDcGAN) | IJCAI[Paper](https://www.ijcai.org/proceedings/2019/0549.pdf) |
+| **2019** | [FusionGAN: A generative adversarial network for infrared and visible image fusion](https://github.com/jiayi-ma/FusionGAN) | InfFus |
+| **2019** | [DDcGAN:infrared and visible image fusion via dual-discriminator conditional generative adversarial network](https://github.com/hanna-xu/DDcGAN) | IJCAI |
 
 ## 6. Transformer-based IVIF method
 
