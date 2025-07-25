@@ -25,30 +25,33 @@
 
 | **Year** | **Title**[code]                                              | Journal     |
 | :------: | :----------------------------------------------------------- | ----------- |
-| **2025** | [MaeFuse: Transferring Omni Features with Pretrained Masked Autoencoders for Infrared and Visible Image Fusion via Guided Training](https://github.com/Henry-Lee-real/MaeFuse) |             |
-| **2025** | [DAF-Net: A Dual Attention Fusion Network with Window-Guided Attention and Invertible Modules for Infrared-Visible Image Fusion](https://github.com/xujian000/DAF-Net) | IEEE ICCECE |
-|   2025   | [DDBFusion: An unified image decomposition and fusion framework based on dual decomposition and B ́ezier curves.](https://github.com/Yukarizz/DDBFusion) | InfFus      |
-| **2025** | [GIFNet: One Model for ALL: Low-Level Task Interaction Is a Key to Task-Agnostic Image Fusion](https://github.com/AWCXV/GIFNet) |             |
-| **2025** | [Text-DiFuse: An Interactive Multi-Modal Image Fusion Framework based on Text-modulated Diffusion Model](https://github.com/Leiii-Cao/Text-DiFuse) |             |
-| **2025** | [A degradation-aware guided fusion network for infrared and visible image](https://github.com/wang-x-1997/DAFusion) |             |
-| **2025** | [SAM-guided multi-level collaborative Transformer for infrared and visible image fusion](https://github.com/lxq-jnu/SpTFuse) |             |
-|   2024   | [EgeFusion: Towards Edge Gradient Enhancement in Infrared and Visible Image Fusion With Multi-Scale Transform](https://github.com/Haojie-Tang/EgeFusion) | TCI         |
-| **2024** | [AGMFusion: A Real-Time End-to-End Infrared and Visible Image Fusion Network Based on Adaptive Guidance Module](https://github.com/liushh39/AGMFusion) |             |
-| **2024** | [TextFusion: Unveiling the Power of Textual Semantics for Controllable Image Fusion](https://github.com/AWCXV/TextFusion) |             |
-| **2024** | [Text-IF: Leveraging Semantic Text Guidance for Degradation-Aware and Interactive Image Fusion](https://github.com/XunpengYi/Text-IF) |             |
-| **2024** | [FILM: image Fusion via vIsion-Language Model](https://github.com/Zhaozixiang1228/IF-FILM) |             |
-| **2024** | [TeRF: Text-driven and Region-aware Flexible Visible and Infrared Image Fusion](https://github.com/Baixuzx7/TeRF) |             |
-| **2024** | [MVSFusion: infrared and visible image fusion method for multiple visual scenarios](https://github.com/VCMHE/MVSFusion) |             |
-| **2024** | [MMDRFuse: Distilled Mini-Model with Dynamic Refresh for Multi-Modality Image Fusion](https://github.com/yanglinDeng/MMDRFuse) |             |
-| **2024** | [Probing Synergistic High-Order Interaction in Infrared and Visible Image Fusion](https://github.com/zheng980629/SHIP) | CVPR        |
-|   2024   | [Dispel Darkness for Better Fusion: A Controllable Visual Enhancer based on Cross-modal Conditional Adversarial Learning](https://github.com/HaoZhang1018/DDBF) | CVPR        |
-|   2024   | [MRFS: Mutually Reinforcing Image Fusion and Segmentation](https://github.com/HaoZhang1018/MRFS) | CVPR        |
-| **2024** | [Frequency Integration and Spatial Compensation Network for Infrared and Visible Image Fusion](https://github.com/zheng980629/FISCNet) |             |
-| **2024** | [A general image fusion framework using multi-task semi-supervised learning](https://github.com/wwhappylife/A-general-image-fusion-framework-using-multi-task-semi-supervised-learning) |             |
-| **2024** | [Diff-IF: Multi-modality image fusion via diffusion model with fusion knowledge prior](https://github.com/XunpengYi/Diff-IF) |             |
-| **2024** | [Task-Customized Mixture of Adapters for General Image Fusion](https://github.com/YangSun22/TC-MoA) |             |
-| **2024** | [Equivariant Multi-Modality Image Fusion](https://github.com/Zhaozixiang1228/MMIF-EMMA) |             |
-| **2024** | [SFCFusion: Spatial–Frequency Collaborative Infrared and Visible Image Fusion](https://github.com/ChenHanrui430/SFCFusion) |             |
+| **2025** | [MaeFuse: Transferring Omni Features with Pretrained Masked Autoencoders for Infrared and Visible Image Fusion via Guided Training](https://github.com/Henry-Lee-real/MaeFuse) | TIP         |
+| **2025** | [DAF-Net: A Dual Attention Fusion Network with Window-Guided Attention and Invertible Modules for Infrared-Visible Image Fusion](https://github.com/xujian000/DAF-Net) | ICCECE      |
+| **2025** | [DDBFusion: An unified image decomposition and fusion framework based on dual decomposition and B ́ezier curves.](https://github.com/Yukarizz/DDBFusion) | InfFus      |
+| **2025** | [GIFNet: One Model for ALL: Low-Level Task Interaction Is a Key to Task-Agnostic Image Fusion](https://github.com/AWCXV/GIFNet) | CVPR        |
+| **2025** | [Text-DiFuse: An Interactive Multi-Modal Image Fusion Framework based on Text-modulated Diffusion Model](https://github.com/Leiii-Cao/Text-DiFuse) | **NeurIPS** |
+| **2025** | [A degradation-aware guided fusion network for infrared and visible image](https://github.com/wang-x-1997/DAFusion) | InfFus      |
+| **2025** | [SAM-guided multi-level collaborative Transformer for infrared and visible image fusion](https://github.com/lxq-jnu/SpTFuse) SpTFuse | PR          |
+| **2025** | [RDMFuse: A Retinex Decomposition Model-Based Deep Framework for Infrared and Visible Image Fusion](https://github.com/wang-x-1997/RDMFuse) | JSTSP       |
+| **2024** | [EgeFusion: Towards Edge Gradient Enhancement in Infrared and Visible Image Fusion With Multi-Scale Transform](https://github.com/Haojie-Tang/EgeFusion) | TCI         |
+| **2024** | [AGMFusion: A Real-Time End-to-End Infrared and Visible Image Fusion Network Based on Adaptive Guidance Module](https://github.com/liushh39/AGMFusion) | Sens.  J 2  |
+| **2024** | [TextFusion: Unveiling the Power of Textual Semantics for Controllable Image Fusion](https://github.com/AWCXV/TextFusion)（Text） | InfFus      |
+| **2024** | [Text-IF: Leveraging Semantic Text Guidance for Degradation-Aware and Interactive Image Fusion](https://github.com/XunpengYi/Text-IF)（Text） | CVPR        |
+| **2024** | [FILM: image Fusion via vIsion-Language Model](https://github.com/Zhaozixiang1228/IF-FILM) （Text） | ICML        |
+| **2024** | [TeRF: Text-driven and Region-aware Flexible Visible and Infrared Image Fusion](https://github.com/Baixuzx7/TeRF)（Text） | ACM         |
+| **2024** | [MVSFusion: infrared and visible image fusion method for multiple visual scenarios](https://github.com/VCMHE/MVSFusion) (matlab) | Visual C. 3 |
+| **2024** | [MMDRFuse: Distilled Mini-Model with Dynamic Refresh for Multi-Modality Image Fusion](https://github.com/yanglinDeng/MMDRFuse) | ACM         |
+| **2024** | [SHIP: Probing Synergistic High-Order Interaction in Infrared and Visible Image Fusion](https://github.com/zheng980629/SHIP) | CVPR        |
+| **2024** | [Dispel Darkness for Better Fusion: A Controllable Visual Enhancer based on Cross-modal Conditional Adversarial Learning](https://github.com/HaoZhang1018/DDBF) | CVPR        |
+| **2024** | [MRFS: Mutually Reinforcing Image Fusion and Segmentation](https://github.com/HaoZhang1018/MRFS) | CVPR        |
+| **2024** | [PromptFusion: Decoupling Stability and Plasticity for Continual Learning](https://github.com/HaoranChen/PromptFusion)(不是红外和可见光的) | ECCV        |
+| **2024** | [Frequency Integration and Spatial Compensation Network for Infrared and Visible Image Fusion](https://github.com/zheng980629/FISCNet)（类SHIP） | InfFus      |
+| **2024** | [A general image fusion framework using multi-task semi-supervised learning](https://github.com/wwhappylife/A-general-image-fusion-framework-using-multi-task-semi-supervised-learning) | InfFus      |
+| **2024** | [Diff-IF: Multi-modality image fusion via diffusion model with fusion knowledge prior](https://github.com/XunpengYi/Diff-IF) | InfFus      |
+| **2024** | [Task-Customized Mixture of Adapters for General Image Fusion](https://github.com/YangSun22/TC-MoA) | CVPR        |
+| **2024** | [Equivariant Multi-Modality Image Fusion](https://github.com/Zhaozixiang1228/MMIF-EMMA)(CDDFuse同作者) | CVPR        |
+| **2024** | [SFCFusion: Spatial–Frequency Collaborative Infrared and Visible Image Fusion](https://github.com/ChenHanrui430/SFCFusion) (matlab) | TIM         |
+| **2024** | [DNFusion: Infrared–Visible Image Fusion through Feature-Based Decomposition and Domain Normalization](https://github.com/wyhlaowang/DNFusion)（DCN库） | Remote S. 2 |
 
 ## 3. AE-based IVIF method
 | **Year** | **Title**[code]                                              | Journal     |
